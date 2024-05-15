@@ -1,0 +1,12 @@
+D:\Tài Liệu\Winform\CalenderApointment\DTO\bin\Debug\DTO.dll
+D:\Tài Liệu\Winform\CalenderApointment\DTO\bin\Debug\DTO.pdb
+D:\Tài Liệu\Winform\CalenderApointment\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Tài Liệu\Winform\CalenderApointment\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Winform\CalenderApointment\DTO\obj\Debug\DTO.dll
+D:\Tài Liệu\Winform\CalenderApointment\DTO\obj\Debug\DTO.pdb
+D:\Tài Liệu\Winform\CalenderApointmentV2\DTO\bin\Debug\DTO.dll
+D:\Tài Liệu\Winform\CalenderApointmentV2\DTO\bin\Debug\DTO.pdb
+D:\Tài Liệu\Winform\CalenderApointmentV2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Tài Liệu\Winform\CalenderApointmentV2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Winform\CalenderApointmentV2\DTO\obj\Debug\DTO.dll
+D:\Tài Liệu\Winform\CalenderApointmentV2\DTO\obj\Debug\DTO.pdb
